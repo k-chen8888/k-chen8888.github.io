@@ -1,6 +1,6 @@
 # Site settings
 title: "Source"
-email: your-email@domain.com
+email: k.chen8880@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Everything radiates out from here. (It's a graph theory joke. A source is a vertex in a digraph with an indegree of 0.)
 baseurl: "" # the subpath of your site, e.g. /blog/
